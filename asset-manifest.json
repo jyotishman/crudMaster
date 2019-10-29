@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/crudMaster/static/css/main.5bd23d6f.chunk.css",
-    "main.js": "/crudMaster/static/js/main.f6f5f131.chunk.js",
-    "main.js.map": "/crudMaster/static/js/main.f6f5f131.chunk.js.map",
+    "main.js": "/crudMaster/static/js/main.bd4b4332.chunk.js",
+    "main.js.map": "/crudMaster/static/js/main.bd4b4332.chunk.js.map",
     "runtime-main.js": "/crudMaster/static/js/runtime-main.0c886c94.js",
     "runtime-main.js.map": "/crudMaster/static/js/runtime-main.0c886c94.js.map",
     "static/js/2.06f2ec00.chunk.js": "/crudMaster/static/js/2.06f2ec00.chunk.js",
     "static/js/2.06f2ec00.chunk.js.map": "/crudMaster/static/js/2.06f2ec00.chunk.js.map",
     "index.html": "/crudMaster/index.html",
-    "precache-manifest.021125ebe070ebbbde9544d0736afa1b.js": "/crudMaster/precache-manifest.021125ebe070ebbbde9544d0736afa1b.js",
+    "precache-manifest.737ad1aa2451a94a2218a04a642e92a9.js": "/crudMaster/precache-manifest.737ad1aa2451a94a2218a04a642e92a9.js",
     "service-worker.js": "/crudMaster/service-worker.js",
     "static/css/main.5bd23d6f.chunk.css.map": "/crudMaster/static/css/main.5bd23d6f.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.0c886c94.js",
     "static/js/2.06f2ec00.chunk.js",
     "static/css/main.5bd23d6f.chunk.css",
-    "static/js/main.f6f5f131.chunk.js"
+    "static/js/main.bd4b4332.chunk.js"
   ]
 }
