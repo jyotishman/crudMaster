@@ -53,7 +53,7 @@ class EmployeeHome extends Component {
 
 
   async fetchData() {
-    let response = await fetch(`http://demo8323138.mockable.io/employees`);
+    let response = await fetch(`https://demo8323138.mockable.io/employees`);
     let data = await response.json()
     return data[0];
   }
